@@ -1,0 +1,48 @@
+[
+  {
+    "id": 73,
+    "name": "Dima",
+    "descr": "23",
+    "image": {
+      "name": "file_1967.png",
+      "full_path": "file_1967.png",
+      "type": "image\/png",
+      "tmp_name": "C:\\xampp\\tmp\\phpA6D3.tmp",
+      "error": 0,
+      "size": 124051
+    },
+    "authors": "fdgdfg",
+    "date": "5fdgdfg",
+    "author": null
+  },
+  {
+    "id": 62,
+    "name": "1",
+    "descr": "2",
+    "image": {
+      "name": "file_1966.png",
+      "full_path": "file_1966.png",
+      "type": "image\/png",
+      "tmp_name": "C:\\xampp\\tmp\\php26B0.tmp",
+      "error": 0,
+      "size": 215995
+    },
+    "authors": "4",
+    "date": "5"
+  },
+  {
+    "id": 64,
+    "name": "1",
+    "descr": "2",
+    "image": {
+      "name": "file_1966.png",
+      "full_path": "file_1966.png",
+      "type": "image\/png",
+      "tmp_name": "C:\\xampp\\tmp\\php26B0.tmp",
+      "error": 0,
+      "size": 215995
+    },
+    "authors": "4",
+    "date": "5"
+  }
+]

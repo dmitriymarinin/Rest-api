@@ -1,0 +1,18 @@
+{
+    "require": {
+        "pecee/simple-router": "4.3.7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        },
+        "classmap": [
+            "middlewares/ProcessRawBody.php",
+            "Controllers/MagazineController.php",
+            "Controllers/Storage/MagazineStorage.php",
+            "Controllers/AbstractController.php",
+            "Controllers/Storage/AuthorStorage.php",
+            "Controllers/AuthorController.php"
+        ]
+    }
+}
